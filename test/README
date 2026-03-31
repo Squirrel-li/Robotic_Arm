@@ -1,0 +1,20 @@
+This directory is intended for PlatformIO Test Runner and project tests.
+
+Unit Testing is a software testing method by which individual units of
+source code, sets of one or more MCU program modules together with associated
+control data, usage procedures, and operating procedures, are tested to
+determine whether they are fit for use. Unit testing finds problems early
+in the development cycle.
+
+More information about PlatformIO Unit Testing:
+- https://docs.platformio.org/en/latest/advanced/unit-testing/index.html
+
+## 中文翻譯
+
+此目錄是提供 PlatformIO 測試執行器（Test Runner）與專案測試使用。
+
+單元測試（Unit Testing）是一種軟體測試方法，會針對個別程式單元進行測試，包含一或多個 MCU 程式模組及其相關控制資料、使用程序與操作程序，以判斷其是否適合使用。  
+單元測試能在開發週期的早期發現問題。
+
+更多關於 PlatformIO 單元測試的資訊：  
+- https://docs.platformio.org/en/latest/advanced/unit-testing/index.html
